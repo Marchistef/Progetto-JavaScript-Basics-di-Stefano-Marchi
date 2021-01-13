@@ -1,0 +1,21 @@
+label{
+    font-weight: 900;
+    font-size: 40px;
+}
+
+input{
+    padding: 20px;
+    margin:20px;
+    font-size: 40px;
+}
+
+button {
+    border-radius: 25px;
+    height: 60px;
+    width: 60px;
+    color: red;
+    border: 2px solid red;
+    background-color: azure;
+    margin: 40px 20px;
+    font-size: 40px;
+}
